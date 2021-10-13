@@ -5,7 +5,7 @@
 - I used JavaScript in order to validate the email entered by the users for contact purpose.
 
 ## Author
-- [Riddhi JOshi] (https://github.com/RiddJoshi)
+- [Riddhi Joshi] (https://github.com/RiddJoshi)
 
 ## Technologies
 - HTML
